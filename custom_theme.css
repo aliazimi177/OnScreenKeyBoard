@@ -1,0 +1,42 @@
+
+window {
+    background-color: #1E1E1E;
+}
+
+button {
+    background-color: #2E2E2E;
+    color: #A9A9A9;
+    border: 2px solid #555555;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 5px 10px;
+    transition: all 0.3s;       
+}
+
+
+button:hover {
+    background-color: #4A4A4A;
+    color: #FFFFFF;
+}
+
+
+GtkTextView {
+    background-color: #333333;
+    color: #E0E0E0;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #555555;
+}
+
+.button_suggestion {
+    background-color: #4A4A4A;
+    color: #D0D0D0;
+    font-size: 16px;
+}
+
+.button_suggestion:hover {
+    background-color: #626262;
+    color: #FFFFFF;
+}
+
